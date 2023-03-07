@@ -10,7 +10,7 @@ This program allows the user to choose between two options: 'investment' or 'bon
 
 ## Usage
 
-To use the program, simply run the `investment_bond_calculator.py` file in a Python environment. When prompted, enter either 'investment' or 'bond' to proceed.
+To use the program, simply run the `finance_calculators.py` file in a Python environment. When prompted, enter either 'investment' or 'bond' to proceed.
 
 ### Investment Calculator
 
